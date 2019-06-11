@@ -1,5 +1,5 @@
 
-  import re
+import re
 from nltk.stem import WordNetLemmatizer
 nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
